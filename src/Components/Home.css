@@ -1,0 +1,723 @@
+
+.Home_Home {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Home_Home .Group1 {
+	position: absolute;
+	left: 44px;
+	top: 28px;
+	width: 1348px;
+	height: 100px;
+}
+.Home_Home .Group1 .signal {
+	position: absolute;
+	left: 944px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background: rgba(253,253,253,0.00);
+}
+.Home_Home .Group1 .signal .Vector {
+	position: absolute;
+	left: 3.75px;
+	top: 10px;
+	width: 92.5%;
+	height: 80%;
+}
+.Home_Home .Group1 .Battery {
+	position: absolute;
+	left: 1248px;
+	top: 28px;
+	width: 7.418397626112759%;
+	height: 50%;
+}
+.Home_Home .Group1 .wifi {
+	position: absolute;
+	left: 1104px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background: rgba(0,0,0,0.00);
+}
+.Home_Home .Group1 .wifi .Vector_1 {
+	position: absolute;
+	left: 0.0001220703125px;
+	top: 15px;
+	width: 99.99993896484375%;
+	height: 70%;
+}
+.Home_Home .Group1 ._609PM {
+	position: absolute;
+	left: 0px;
+	top: 24px;
+	width: 256px;
+	height: 52px;
+	color: rgba(32,27,27,1.00);
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: 400;
+	line-height: 70.3125px;
+}
+.Home_Home .Group3 {
+	position: absolute;
+	left: 0px;
+	top: 144px;
+	width: 1440px;
+	height: 112px;
+}
+.Home_Home .Group3 .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 112px;
+}
+.Home_Home .Group3 .Myproject2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 512px;
+	height: 112px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Home_Home .Group3 .biplussquare {
+	position: absolute;
+	left: 1132px;
+	top: 12px;
+	width: 88px;
+	height: 88px;
+}
+.Home_Home .Group3 .biplussquare .Group {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Home_Home .Group3 .biplussquare .Group .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Home_Home .Group3 .biplussquare .Group .Vector_3 {
+	position: absolute;
+	left: 22px;
+	top: 22px;
+	width: 50%;
+	height: 50%;
+}
+.Home_Home .Group3 .Vector_4 {
+	position: absolute;
+	left: 1312px;
+	top: 12px;
+	width: 6.111111111111111%;
+	height: 78.57142857142857%;
+}
+.Home_Home .Group4 {
+	position: absolute;
+	left: 0px;
+	top: 544px;
+	width: 1440px;
+	height: 172px;
+}
+.Home_Home .Group4 .Rectangle5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Home_Home .Group4 .Rectangle13 {
+	position: absolute;
+	left: 44px;
+	top: 12px;
+	width: 148px;
+	height: 148px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.Home_Home .Group4 .movie24 {
+	position: absolute;
+	left: 236px;
+	top: 44px;
+	width: 244px;
+	height: 60px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: 400;
+	line-height: 70.3125px;
+}
+.Home_Home .Group4 .Vector_5 {
+	position: absolute;
+	left: 1344px;
+	top: 44px;
+	width: 0.4861111111111111%;
+	height: 48.837209302325576%;
+}
+.Home_Home .Group9 {
+	position: absolute;
+	left: 0px;
+	top: 1856px;
+	width: 1440px;
+	height: 172px;
+}
+.Home_Home .Group9 .Rectangle5_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Home_Home .Group9 .Rectangle13_1 {
+	position: absolute;
+	left: 44px;
+	top: 12px;
+	width: 148px;
+	height: 148px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.Home_Home .Group9 .music24 {
+	position: absolute;
+	left: 236px;
+	top: 44px;
+	width: 244px;
+	height: 60px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: 400;
+	line-height: 70.3125px;
+}
+.Home_Home .Group9 .Vector_6 {
+	position: absolute;
+	left: 1344px;
+	top: 44px;
+	width: 0.4861111111111111%;
+	height: 48.837209302325576%;
+}
+.Home_Home .Group5 {
+	position: absolute;
+	left: 0px;
+	top: 1476px;
+	width: 1440px;
+	height: 128px;
+}
+.Home_Home .Group5 .Rectangle7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 128px;
+}
+.Home_Home .Group5 .Vector_7 {
+	position: absolute;
+	left: 172px;
+	top: 16px;
+	width: 5.833333333333333%;
+	height: 75%;
+}
+.Home_Home .Group5 .cilheart {
+	position: absolute;
+	left: 36px;
+	top: 16px;
+	width: 92px;
+	height: 96px;
+}
+.Home_Home .Group5 .cilheart .Group_1 {
+	position: absolute;
+	left: 2.61236572265625px;
+	top: 7.78533935546875px;
+	width: 94.10931131114131%;
+	height: 83.86936982472739%;
+}
+.Home_Home .Group5 .cilheart .Group_1 .Vector_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Home_Home .Group5 .Vector_9 {
+	position: absolute;
+	left: 300px;
+	top: 24px;
+	width: 6.075846354166667%;
+	height: 57.32394456863403%;
+}
+.Home_Home .Group5 .bibookmark {
+	position: absolute;
+	left: 1312px;
+	top: 24px;
+	width: 80px;
+	height: 80px;
+}
+.Home_Home .Group5 .bibookmark .Group_2 {
+	position: absolute;
+	left: 10px;
+	top: 0px;
+	width: 75%;
+	height: 99.99838829040527%;
+}
+.Home_Home .Group5 .bibookmark .Group_2 .Group_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Home_Home .Group5 .bibookmark .Group_2 .Group_3 .Vector_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Home_Home .Group6 {
+	position: absolute;
+	left: 0px;
+	top: 2400px;
+	width: 1440px;
+	height: 160px;
+}
+.Home_Home .Group6 .Rectangle4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 160px;
+}
+.Home_Home .Group6 .home {
+	position: absolute;
+	left: 64px;
+	top: 8px;
+	width: 120px;
+	height: 120px;
+	background: rgba(0,0,0,0.00);
+}
+.Home_Home .Group6 .home .Vector_11 {
+	position: absolute;
+	left: -0.00311279296875px;
+	top: 13.34375px;
+	width: 100.00768025716147%;
+	height: 77.76906331380208%;
+}
+.Home_Home .Group6 .eisearch {
+	position: absolute;
+	left: 348px;
+	top: 8px;
+	width: 140px;
+	height: 140px;
+}
+.Home_Home .Group6 .eisearch .Group_4 {
+	position: absolute;
+	left: 28px;
+	top: 28px;
+	width: 63.32400730678014%;
+	height: 63.321969168526785%;
+}
+.Home_Home .Group6 .eisearch .Group_4 .Vector_12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 82.11734141961716%;
+	height: 82.1200533717419%;
+}
+.Home_Home .Group6 .eisearch .Group_4 .Vector_13 {
+	position: absolute;
+	left: 59.5504150390625px;
+	top: 59.547607421875px;
+	width: 32.82798649157324%;
+	height: 32.82899148613313%;
+}
+.Home_Home .Group6 .reels1 {
+	position: absolute;
+	left: 660px;
+	top: 24px;
+	width: 116px;
+	height: 118.974365234375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Home_Home .Group6 .Group_5 {
+	position: absolute;
+	left: 992px;
+	top: 40px;
+	width: 7.777777777777778%;
+	height: 55.00000000000001%;
+}
+.Home_Home .Group6 .Group_5 .Vector_14 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Home_Home .Group6 .Rectangle14 {
+	position: absolute;
+	left: 1272px;
+	top: 24px;
+	width: 120px;
+	height: 120px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.Home_Home .Group10 {
+	position: absolute;
+	left: 0px;
+	top: 256px;
+	width: 1440px;
+	height: 288px;
+}
+.Home_Home .Group10 .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 288px;
+}
+.Home_Home .Group10 .Rectangle8 {
+	position: absolute;
+	left: 36px;
+	top: 20px;
+	width: 220px;
+	height: 220px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.Home_Home .Group10 .Rectangle9 {
+	position: absolute;
+	left: 1144px;
+	top: 20px;
+	width: 220px;
+	height: 220px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.Home_Home .Group10 .Rectangle10 {
+	position: absolute;
+	left: 312px;
+	top: 20px;
+	width: 220px;
+	height: 220px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.Home_Home .Group10 .Rectangle11 {
+	position: absolute;
+	left: 588px;
+	top: 16px;
+	width: 220px;
+	height: 220px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.Home_Home .Group10 .Rectangle12 {
+	position: absolute;
+	left: 868px;
+	top: 20px;
+	width: 220px;
+	height: 220px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.Home_Home .Group7 {
+	position: absolute;
+	left: 0px;
+	top: 1604px;
+	width: 1440px;
+	height: 140px;
+}
+.Home_Home .Group7 .Rectangle15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 140px;
+}
+.Home_Home .Group7 ._8491viewsmovie24AGrandoneBillionviewsforpushpatheriseSongsacross4lanmore {
+	position: absolute;
+	left: 40px;
+	top: 0px;
+	width: 1360px;
+	height: 128px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.Home_Home .Group8 {
+	position: absolute;
+	left: 0px;
+	top: 1744px;
+	width: 1440px;
+	height: 112px;
+}
+.Home_Home .Group8 .Rectangle8_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 112px;
+}
+.Home_Home .Group8 .carbonaddalt {
+	position: absolute;
+	left: 1344px;
+	top: 24px;
+	width: 60px;
+	height: 60px;
+}
+.Home_Home .Group8 .carbonaddalt .Group_6 {
+	position: absolute;
+	left: 3.75px;
+	top: 3.75px;
+	width: 87.5%;
+	height: 87.5%;
+}
+.Home_Home .Group8 .carbonaddalt .Group_6 .Vector_15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Home_Home .Group8 .carbonaddalt .Group_6 .Vector_16 {
+	position: absolute;
+	left: 11.25px;
+	top: 11.25px;
+	width: 57.14285714285714%;
+	height: 57.14285714285714%;
+}
+.Home_Home .Group8 .Rectangle15_1 {
+	position: absolute;
+	left: 44px;
+	top: 16px;
+	width: 72px;
+	height: 72px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.Home_Home .Group8 .Addacomment {
+	position: absolute;
+	left: 156px;
+	top: 32px;
+	width: 324px;
+	height: 52px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.Home_Home .Group8 .heart {
+	position: absolute;
+	left: 1084px;
+	top: 12px;
+	width: 60px;
+	height: 60px;
+	background: rgba(0,0,0,0.00);
+}
+.Home_Home .Group8 .Vector_17 {
+	position: absolute;
+	left: 1152px;
+	top: 32px;
+	width: 4.166747199164496%;
+	height: 46.87584468296596%;
+}
+.Home_Home .Group8 .notoclappinghands {
+	position: absolute;
+	left: 1252px;
+	top: 24px;
+	width: 60px;
+	height: 60px;
+}
+.Home_Home .Group8 .notoclappinghands .Group_7 {
+	position: absolute;
+	left: 5.068359375px;
+	top: 1.875px;
+	width: 84.66796875%;
+	height: 93.75%;
+}
+.Home_Home .Group8 .notoclappinghands .Group_7 .Vector_18 {
+	position: absolute;
+	left: 5.15093994140625px;
+	top: 8.296875px;
+	width: 88.34090253748558%;
+	height: 82.33333333333334%;
+}
+.Home_Home .Group8 .notoclappinghands .Group_7 .Vector_19 {
+	position: absolute;
+	left: 4.39007568359375px;
+	top: 7.52813720703125px;
+	width: 91.35825163398692%;
+	height: 85.06667751736111%;
+}
+.Home_Home .Group8 .notoclappinghands .Group_7 .Vector_20 {
+	position: absolute;
+	left: 0.776123046875px;
+	top: 3.984375px;
+	width: 86.31463860053825%;
+	height: 91.54166666666667%;
+}
+.Home_Home .Group8 .notoclappinghands .Group_7 .Vector_21 {
+	position: absolute;
+	left: 0px;
+	top: 3.2109375px;
+	width: 89.3662293348712%;
+	height: 94.29166666666666%;
+}
+.Home_Home .Group8 .notoclappinghands .Group_7 .Vector_22 {
+	position: absolute;
+	left: 0.57537841796875px;
+	top: 9.290618896484375px;
+	width: 15.58475105728566%;
+	height: 5.508355034722222%;
+}
+.Home_Home .Group8 .notoclappinghands .Group_7 .Vector_23 {
+	position: absolute;
+	left: 15.889404296875px;
+	top: 0px;
+	width: 1.3564494425221068%;
+	height: 13.458333333333334%;
+}
+.Home_Home .Group8 .notoclappinghands .Group_7 .Vector_24 {
+	position: absolute;
+	left: 5.56756591796875px;
+	top: 0.689056396484375px;
+	width: 10.343737985390234%;
+	height: 13.858344184027777%;
+}
+.Home_Home .carbonaddfilled {
+	position: absolute;
+	left: 184px;
+	top: 396px;
+	width: 80px;
+	height: 80px;
+}
+.Home_Home .carbonaddfilled .Group_8 {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	width: 87.5%;
+	height: 87.5%;
+}
+.Home_Home .carbonaddfilled .Group_8 .Vector_25 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Home_Home .LSAhero11583x9001 {
+	position: absolute;
+	left: 0px;
+	top: 716px;
+	width: 1440px;
+	height: 760px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Home_Home .RadheSham1 {
+	position: absolute;
+	left: 0px;
+	top: 2028px;
+	width: 1440px;
+	height: 356px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Home_Home .YourStory {
+	position: absolute;
+	left: 76px;
+	top: 508px;
+	width: 140px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 32.8125px;
+}
+.Home_Home .music24_1 {
+	position: absolute;
+	left: 372px;
+	top: 508px;
+	width: 140px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 32.8125px;
+}
+.Home_Home .alluarjunonline {
+	position: absolute;
+	left: 604px;
+	top: 508px;
+	width: 204px;
+	height: 36px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 32.8125px;
+}
+.Home_Home .yashofficial {
+	position: absolute;
+	left: 920px;
+	top: 508px;
+	width: 168px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 32.8125px;
+}
+.Home_Home .urstruelymahesh {
+	position: absolute;
+	left: 1168px;
+	top: 508px;
+	width: 212px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 32.8125px;
+}
+.Home_Home .Vector1 {
+	position: absolute;
+	left: 0px;
+	top: 564px;
+	width: 1440px;
+	height: 0px;
+}
+.Home_Home .Vector2 {
+	position: absolute;
+	left: 0px;
+	top: 2384px;
+	width: 1440px;
+	height: 0px;
+}

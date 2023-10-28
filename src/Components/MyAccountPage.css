@@ -1,0 +1,798 @@
+
+.MyAccountPage_MyAccountPage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.MyAccountPage_MyAccountPage .Group1 {
+	position: absolute;
+	left: 44px;
+	top: 28px;
+	width: 1348px;
+	height: 103.225830078125px;
+}
+.MyAccountPage_MyAccountPage .Group1 .signal {
+	position: absolute;
+	left: 944px;
+	top: 0px;
+	width: 100px;
+	height: 103.225830078125px;
+	background: rgba(253,253,253,0.00);
+}
+.MyAccountPage_MyAccountPage .Group1 .signal .Vector {
+	position: absolute;
+	left: 3.75px;
+	top: 10.3226318359375px;
+	width: 92.5%;
+	height: 80.00002365111763%;
+}
+.MyAccountPage_MyAccountPage .Group1 .Battery {
+	position: absolute;
+	left: 1248px;
+	top: 28.9031982421875px;
+	width: 7.418397626112759%;
+	height: 50%;
+}
+.MyAccountPage_MyAccountPage .Group1 .wifi {
+	position: absolute;
+	left: 1104px;
+	top: 0px;
+	width: 100px;
+	height: 103.225830078125px;
+	background: rgba(0,0,0,0.00);
+}
+.MyAccountPage_MyAccountPage .Group1 .wifi .Vector_1 {
+	position: absolute;
+	left: 0.0001220703125px;
+	top: 15.48388671875px;
+	width: 99.9998779296875%;
+	height: 69.99997634888237%;
+}
+.MyAccountPage_MyAccountPage .Group1 ._609PM {
+	position: absolute;
+	left: 0px;
+	top: 24.774169921875px;
+	width: 256px;
+	height: 53.6773681640625px;
+	color: rgba(32,27,27,1.00);
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: 400;
+	line-height: 70.3125px;
+}
+.MyAccountPage_MyAccountPage .Group3 {
+	position: absolute;
+	left: 0px;
+	top: 164.258056640625px;
+	width: 1440px;
+	height: 115.6129150390625px;
+}
+.MyAccountPage_MyAccountPage .Group3 .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 115.6129150390625px;
+}
+.MyAccountPage_MyAccountPage .Group3 .biplussquare {
+	position: absolute;
+	left: 1132px;
+	top: 12.3870849609375px;
+	width: 88px;
+	height: 90.8387451171875px;
+}
+.MyAccountPage_MyAccountPage .Group3 .biplussquare .Group {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group3 .biplussquare .Group .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group3 .biplussquare .Group .Vector_3 {
+	position: absolute;
+	left: 22px;
+	top: 22.709716796875px;
+	width: 50%;
+	height: 49.99993280933574%;
+}
+.MyAccountPage_MyAccountPage .Group3 .akariconschevrondown {
+	position: absolute;
+	left: 328px;
+	top: 43.741943359375px;
+	width: 60px;
+	height: 60px;
+}
+.MyAccountPage_MyAccountPage .Group3 .akariconschevrondown .Group_1 {
+	position: absolute;
+	left: 10px;
+	top: 22.5px;
+	width: 66.66666666666666%;
+	height: 33.33333333333333%;
+}
+.MyAccountPage_MyAccountPage .Group3 .akariconschevrondown .Group_1 .Group_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group3 .akariconschevrondown .Group_1 .Group_2 .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group3 .movie24 {
+	position: absolute;
+	left: 36px;
+	top: 19.741943359375px;
+	width: 288px;
+	height: 76px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 72px;
+	font-weight: 700;
+	line-height: 84.375px;
+}
+.MyAccountPage_MyAccountPage .Group3 .antdesignmenuoutlined {
+	position: absolute;
+	left: 1284px;
+	top: 3.741943359375px;
+	width: 100px;
+	height: 100px;
+}
+.MyAccountPage_MyAccountPage .Group3 .antdesignmenuoutlined .Group_3 {
+	position: absolute;
+	left: 10.9375px;
+	top: 15.625px;
+	width: 78.125%;
+	height: 68.75%;
+}
+.MyAccountPage_MyAccountPage .Group3 .antdesignmenuoutlined .Group_3 .Vector_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group18 {
+	position: absolute;
+	left: 0px;
+	top: 324px;
+	width: 1440px;
+	height: 96px;
+}
+.MyAccountPage_MyAccountPage .Group18 .Rectangle20 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 96px;
+}
+.MyAccountPage_MyAccountPage .Group18 .ProfessionalDashboardToolsandresourcesjustforcreators {
+	position: absolute;
+	left: 28px;
+	top: 16px;
+	width: 576px;
+	height: 64px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 37.5px;
+}
+.MyAccountPage_MyAccountPage .Group18 .akariconschevrondown_1 {
+	position: absolute;
+	left: 1340px;
+	top: 12.0001220703125px;
+	width: 60.07177734375px;
+	height: 60.0716552734375px;
+}
+.MyAccountPage_MyAccountPage .Group18 .akariconschevrondown_1 .Group_4 {
+	position: absolute;
+	left: 22.511962890625px;
+	top: 10.0208740234375px;
+	width: 33.37316198883172%;
+	height: 66.62697340212596%;
+}
+.MyAccountPage_MyAccountPage .Group18 .akariconschevrondown_1 .Group_4 .Group_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group18 .akariconschevrondown_1 .Group_4 .Group_5 .Vector_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group6 {
+	position: absolute;
+	left: 0px;
+	top: 2400px;
+	width: 1440px;
+	height: 160px;
+}
+.MyAccountPage_MyAccountPage .Group6 .Rectangle4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 160px;
+}
+.MyAccountPage_MyAccountPage .Group6 .home {
+	position: absolute;
+	left: 64px;
+	top: 8px;
+	width: 120px;
+	height: 120px;
+	background: rgba(0,0,0,0.00);
+}
+.MyAccountPage_MyAccountPage .Group6 .home .Vector_7 {
+	position: absolute;
+	left: -0.00311279296875px;
+	top: 13.34375px;
+	width: 100.00768025716147%;
+	height: 77.76906331380208%;
+}
+.MyAccountPage_MyAccountPage .Group6 .eisearch {
+	position: absolute;
+	left: 348px;
+	top: 8px;
+	width: 140px;
+	height: 140px;
+}
+.MyAccountPage_MyAccountPage .Group6 .eisearch .Group_6 {
+	position: absolute;
+	left: 28px;
+	top: 28px;
+	width: 63.323974609375%;
+	height: 63.321969168526785%;
+}
+.MyAccountPage_MyAccountPage .Group6 .eisearch .Group_6 .Vector_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 82.11745266781412%;
+	height: 82.1200533717419%;
+}
+.MyAccountPage_MyAccountPage .Group6 .eisearch .Group_6 .Vector_9 {
+	position: absolute;
+	left: 59.5504150390625px;
+	top: 59.547607421875px;
+	width: 32.827951807228914%;
+	height: 32.82899148613313%;
+}
+.MyAccountPage_MyAccountPage .Group6 .reels1 {
+	position: absolute;
+	left: 660px;
+	top: 24px;
+	width: 116px;
+	height: 118.974365234375px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyAccountPage_MyAccountPage .Group6 .Group_7 {
+	position: absolute;
+	left: 992px;
+	top: 40px;
+	width: 7.777777777777778%;
+	height: 55.00000000000001%;
+}
+.MyAccountPage_MyAccountPage .Group6 .Group_7 .Vector_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group6 .Rectangle14 {
+	position: absolute;
+	left: 1272px;
+	top: 24px;
+	width: 120px;
+	height: 120px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.MyAccountPage_MyAccountPage .Group21 {
+	position: absolute;
+	left: 64px;
+	top: 1044px;
+	width: 1336px;
+	height: 112px;
+}
+.MyAccountPage_MyAccountPage .Group21 .Vector5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 400px;
+	height: 112px;
+}
+.MyAccountPage_MyAccountPage .Group21 .Vector6 {
+	position: absolute;
+	left: 468px;
+	top: 0px;
+	width: 400px;
+	height: 112px;
+}
+.MyAccountPage_MyAccountPage .Group21 .Vector7 {
+	position: absolute;
+	left: 936px;
+	top: 0px;
+	width: 400px;
+	height: 112px;
+}
+.MyAccountPage_MyAccountPage .Group21 .Rectangle23 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 400px;
+	height: 112px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 20px;
+}
+.MyAccountPage_MyAccountPage .Group21 .Rectangle24 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 400px;
+	height: 112px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.MyAccountPage_MyAccountPage .Group21 .Rectangle25 {
+	position: absolute;
+	left: 468px;
+	top: 0px;
+	width: 400px;
+	height: 112px;
+	border-radius: 20px;
+}
+.MyAccountPage_MyAccountPage .Group21 .Rectangle26 {
+	position: absolute;
+	left: 936px;
+	top: 0px;
+	width: 400px;
+	height: 112px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.MyAccountPage_MyAccountPage .Group21 .Editprofile {
+	position: absolute;
+	left: 108px;
+	top: 36px;
+	width: 184px;
+	height: 44px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.MyAccountPage_MyAccountPage .Group21 .Adtools {
+	position: absolute;
+	left: 588px;
+	top: 32px;
+	width: 160px;
+	height: 40px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.MyAccountPage_MyAccountPage .Group21 .Insights {
+	position: absolute;
+	left: 1056px;
+	top: 32px;
+	width: 144px;
+	height: 48px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.MyAccountPage_MyAccountPage .Group25 {
+	position: absolute;
+	left: 20px;
+	top: 2252px;
+	width: 1388px;
+	height: 148px;
+}
+.MyAccountPage_MyAccountPage .Group25 .Group24 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1388px;
+	height: 148px;
+}
+.MyAccountPage_MyAccountPage .Group25 .Group24 .Rectangle32 {
+	position: absolute;
+	left: 960px;
+	top: 0px;
+	width: 428px;
+	height: 148px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyAccountPage_MyAccountPage .Group25 .Group24 .Rectangle33 {
+	position: absolute;
+	left: 480px;
+	top: 0px;
+	width: 428px;
+	height: 148px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyAccountPage_MyAccountPage .Group25 .Group24 .Rectangle34 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 428px;
+	height: 148px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyAccountPage_MyAccountPage .Pushpa {
+	position: absolute;
+	left: 44px;
+	top: 736px;
+	width: 160px;
+	height: 32px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.MyAccountPage_MyAccountPage .Movie {
+	position: absolute;
+	left: 44px;
+	top: 772px;
+	width: 160px;
+	height: 32px;
+	color: rgba(196,196,196,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.MyAccountPage_MyAccountPage .Group20 {
+	position: absolute;
+	left: 0px;
+	top: 436px;
+	width: 1440px;
+	height: 300px;
+}
+.MyAccountPage_MyAccountPage .Group20 .Rectangle21 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 300px;
+}
+.MyAccountPage_MyAccountPage .Group20 .Rectangle22 {
+	position: absolute;
+	left: 64px;
+	top: 24px;
+	width: 256px;
+	height: 256px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 160px;
+}
+.MyAccountPage_MyAccountPage .Group20 ._1289 {
+	position: absolute;
+	left: 508px;
+	top: 88px;
+	width: 124px;
+	height: 56px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 52px;
+	font-weight: 700;
+	line-height: 60.9375px;
+}
+.MyAccountPage_MyAccountPage .Group20 ._58k {
+	position: absolute;
+	left: 868px;
+	top: 84px;
+	width: 96px;
+	height: 56px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 52px;
+	font-weight: 700;
+	line-height: 60.9375px;
+}
+.MyAccountPage_MyAccountPage .Group20 ._15 {
+	position: absolute;
+	left: 1196px;
+	top: 84px;
+	width: 96px;
+	height: 56px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 52px;
+	font-weight: 700;
+	line-height: 60.9375px;
+}
+.MyAccountPage_MyAccountPage .Group20 .Posts {
+	position: absolute;
+	left: 524px;
+	top: 148px;
+	width: 92px;
+	height: 44px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.MyAccountPage_MyAccountPage .Group20 .Followers {
+	position: absolute;
+	left: 832px;
+	top: 148px;
+	width: 156px;
+	height: 44px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.MyAccountPage_MyAccountPage .Group20 .Following {
+	position: absolute;
+	left: 1152px;
+	top: 148px;
+	width: 156px;
+	height: 44px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.MyAccountPage_MyAccountPage .Group10 {
+	position: absolute;
+	left: 0px;
+	top: 1172px;
+	width: 1440px;
+	height: 248px;
+}
+.MyAccountPage_MyAccountPage .Group10 .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 248px;
+}
+.MyAccountPage_MyAccountPage .Group10 .Rectangle8 {
+	position: absolute;
+	left: 35.89971923828125px;
+	top: 17.22222900390625px;
+	width: 216.60162353515625px;
+	height: 216px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.MyAccountPage_MyAccountPage .Group10 .Rectangle9 {
+	position: absolute;
+	left: 1140.8134765625px;
+	top: 17.22222900390625px;
+	width: 216.6015625px;
+	height: 216px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.MyAccountPage_MyAccountPage .Group10 .Rectangle10 {
+	position: absolute;
+	left: 311.130859375px;
+	top: 17.22222900390625px;
+	width: 216.6016845703125px;
+	height: 216px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.MyAccountPage_MyAccountPage .Group10 .Rectangle11 {
+	position: absolute;
+	left: 586.3621826171875px;
+	top: 13.77777099609375px;
+	width: 216.6016845703125px;
+	height: 216px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.MyAccountPage_MyAccountPage .Group10 .Rectangle12 {
+	position: absolute;
+	left: 865.5821533203125px;
+	top: 17.22222900390625px;
+	width: 216.6016845703125px;
+	height: 216px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 120px;
+}
+.MyAccountPage_MyAccountPage .Group22 {
+	position: absolute;
+	left: 104px;
+	top: 1464px;
+	width: 1180px;
+	height: 90px;
+}
+.MyAccountPage_MyAccountPage .Group22 .reels2 {
+	position: absolute;
+	left: 368px;
+	top: 0.0000476837158203125px;
+	width: 78px;
+	height: 80px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyAccountPage_MyAccountPage .Group22 .cilgrid {
+	position: absolute;
+	left: 0px;
+	top: 0.0000476837158203125px;
+	width: 80px;
+	height: 80px;
+}
+.MyAccountPage_MyAccountPage .Group22 .cilgrid .Group_8 {
+	position: absolute;
+	left: 7.42926025390625px;
+	top: 7.429218292236328px;
+	width: 81.42692565917969%;
+	height: 81.42695426940918%;
+}
+.MyAccountPage_MyAccountPage .Group22 .cilgrid .Group_8 .Vector_11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group22 .Group_9 {
+	position: absolute;
+	left: 736px;
+	top: -0.0000019073486328125px;
+	width: 6.848972126588983%;
+	height: 89.79768541124132%;
+}
+.MyAccountPage_MyAccountPage .Group22 .Group_9 .Group_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group22 .Group_9 .Group_10 .Vector_12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1.0172794006585506%;
+	height: 98.98272117554234%;
+}
+.MyAccountPage_MyAccountPage .Group22 .Group_9 .Group_10 .Vector_13 {
+	position: absolute;
+	left: 0.4110107421875px;
+	top: 9.5367431640625e-7px;
+	width: 99.49143582152675%;
+	height: 50.50863941222883%;
+}
+.MyAccountPage_MyAccountPage .Group22 .Group_9 .Group_10 .Vector_14 {
+	position: absolute;
+	left: 0px;
+	top: 39.99788856506348px;
+	width: 99.49143582152675%;
+	height: 50.50863941222883%;
+}
+.MyAccountPage_MyAccountPage .Group22 .Group_11 {
+	position: absolute;
+	left: 1100px;
+	top: 0.0000476837158203125px;
+	width: 6.779661016949152%;
+	height: 88.88888888888889%;
+}
+.MyAccountPage_MyAccountPage .Group22 .Group_11 .Group_12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100.00030517578125%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group22 .Group_11 .Group_12 .Vector_15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.MyAccountPage_MyAccountPage .Group22 .Vector8 {
+	position: absolute;
+	left: 246px;
+	top: 90px;
+	width: 320px;
+	height: 0px;
+}
+.MyAccountPage_MyAccountPage .Group23 {
+	position: absolute;
+	left: 24px;
+	top: 1580px;
+	width: 1384px;
+	height: 660px;
+}
+.MyAccountPage_MyAccountPage .Group23 .Rectangle27 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 428px;
+	height: 656px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyAccountPage_MyAccountPage .Group23 .Rectangle28 {
+	position: absolute;
+	left: 476px;
+	top: 0px;
+	width: 428px;
+	height: 656px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyAccountPage_MyAccountPage .Group23 .Rectangle29 {
+	position: absolute;
+	left: 956px;
+	top: 4px;
+	width: 428px;
+	height: 656px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyAccountPage_MyAccountPage .FanPageofpushpaMovieFollowforFastestupdatesIconstaralluarjunonlinedirectoraryasukkumore {
+	position: absolute;
+	left: 48px;
+	top: 828px;
+	width: 460px;
+	height: 176px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.MyAccountPage_MyAccountPage .Vector2 {
+	position: absolute;
+	left: 0px;
+	top: 440px;
+	width: 1440px;
+	height: 0px;
+}
+.MyAccountPage_MyAccountPage .Vector1 {
+	position: absolute;
+	left: 0px;
+	top: 308px;
+	width: 1440px;
+	height: 0px;
+}

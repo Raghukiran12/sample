@@ -1,0 +1,321 @@
+
+.Chats_Chats {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Chats_Chats .Group1 {
+	position: absolute;
+	left: 44px;
+	top: 28px;
+	width: 1348px;
+	height: 100px;
+}
+.Chats_Chats .Group1 .signal {
+	position: absolute;
+	left: 944px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background: rgba(253,253,253,0.00);
+}
+.Chats_Chats .Group1 .signal .Vector {
+	position: absolute;
+	left: 3.75px;
+	top: 10px;
+	width: 92.5%;
+	height: 80%;
+}
+.Chats_Chats .Group1 .Battery {
+	position: absolute;
+	left: 1248px;
+	top: 28px;
+	width: 7.418397626112759%;
+	height: 50%;
+}
+.Chats_Chats .Group1 .wifi {
+	position: absolute;
+	left: 1104px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background: rgba(0,0,0,0.00);
+}
+.Chats_Chats .Group1 .wifi .Vector_1 {
+	position: absolute;
+	left: 0.000244140625px;
+	top: 15px;
+	width: 100%;
+	height: 70%;
+}
+.Chats_Chats .Group1 ._609PM {
+	position: absolute;
+	left: 0px;
+	top: 24px;
+	width: 256px;
+	height: 52px;
+	color: rgba(32,27,27,1.00);
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: 400;
+	line-height: 70.3125px;
+}
+.Chats_Chats .Group2 {
+	position: absolute;
+	left: 0px;
+	top: 160px;
+	width: 1440px;
+	height: 115.6129150390625px;
+}
+.Chats_Chats .Group2 .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 115.6129150390625px;
+	background: rgba(196,196,196,1.00);
+}
+.Chats_Chats .Group2 .akariconschevrondown {
+	position: absolute;
+	left: 500px;
+	top: 43.741943359375px;
+	width: 60px;
+	height: 60px;
+}
+.Chats_Chats .Group2 .akariconschevrondown .Group {
+	position: absolute;
+	left: 10px;
+	top: 22.5px;
+	width: 66.66666666666666%;
+	height: 33.33333333333333%;
+}
+.Chats_Chats .Group2 .akariconschevrondown .Group .Group_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Chats_Chats .Group2 .akariconschevrondown .Group .Group_1 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Chats_Chats .Group2 .movie24 {
+	position: absolute;
+	left: 212px;
+	top: 19.741943359375px;
+	width: 288px;
+	height: 76px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 72px;
+	font-weight: 700;
+	line-height: 84.375px;
+}
+.Chats_Chats .Group2 .akariconsplus {
+	position: absolute;
+	left: 1292px;
+	top: 4px;
+	width: 100px;
+	height: 100px;
+}
+.Chats_Chats .Group2 .akariconsplus .Group_2 {
+	position: absolute;
+	left: 16.666748046875px;
+	top: 16.6666259765625px;
+	width: 66.666748046875%;
+	height: 66.6666259765625%;
+}
+.Chats_Chats .Group2 .akariconsplus .Group_2 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Chats_Chats .Group2 .carbonvideoadd {
+	position: absolute;
+	left: 1112px;
+	top: 4px;
+	width: 100px;
+	height: 100px;
+}
+.Chats_Chats .Group2 .carbonvideoadd .Vector_4 {
+	position: absolute;
+	left: 25px;
+	top: 34.375px;
+	width: 31.25%;
+	height: 31.25%;
+}
+.Chats_Chats .Group2 .carbonvideoadd .Vector_5 {
+	position: absolute;
+	left: 6.25px;
+	top: 18.75px;
+	width: 87.5%;
+	height: 62.5%;
+}
+.Chats_Chats .biarrowdown {
+	position: absolute;
+	left: 23.91650390625px;
+	top: 179.9998779296875px;
+	width: 104.14111328125px;
+	height: 84.0001220703125px;
+}
+.Chats_Chats .biarrowdown .Group_3 {
+	position: absolute;
+	left: 6.51611328125px;
+	top: 18.3555908203125px;
+	width: 87.48060070986163%;
+	height: 56.29627584362815%;
+}
+.Chats_Chats .biarrowdown .Group_3 .Group_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Chats_Chats .biarrowdown .Group_3 .Group_4 .Vector_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Chats_Chats .Group26 {
+	position: absolute;
+	left: 44px;
+	top: 352px;
+	width: 1348px;
+	height: 96px;
+}
+.Chats_Chats .Group26 .Rectangle35 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1348px;
+	height: 96px;
+	background: rgba(229,229,229,1.00);
+	border-radius: 20px;
+}
+.Chats_Chats .Group26 .carbonsearch {
+	position: absolute;
+	left: 68px;
+	top: 8px;
+	width: 80px;
+	height: 80px;
+}
+.Chats_Chats .Group26 .carbonsearch .Vector_7 {
+	position: absolute;
+	left: 4.91064453125px;
+	top: 4.91064453125px;
+	width: 84.4866943359375%;
+	height: 84.48677062988281%;
+}
+.Chats_Chats .Group26 .Search {
+	position: absolute;
+	left: 180px;
+	top: 12px;
+	width: 200px;
+	height: 76px;
+	color: rgba(196,196,196,1.00);
+	font-family: Roboto;
+	font-size: 64px;
+	font-weight: 400;
+	line-height: 75px;
+}
+.Chats_Chats .Messages {
+	position: absolute;
+	left: 32px;
+	top: 488px;
+	width: 204px;
+	height: 52px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 44px;
+	font-weight: 700;
+	line-height: 51.5625px;
+}
+.Chats_Chats .Requests {
+	position: absolute;
+	left: 1204px;
+	top: 488px;
+	width: 188px;
+	height: 52px;
+	color: rgba(105,155,247,1.00);
+	font-family: Roboto;
+	font-size: 44px;
+	font-weight: 700;
+	line-height: 51.5625px;
+}
+.Chats_Chats .Group27 {
+	position: absolute;
+	left: 0px;
+	top: 592px;
+	width: 1440px;
+	height: 224px;
+}
+.Chats_Chats .Group27 .Rectangle36 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 224px;
+}
+.Chats_Chats .Group27 .music24 {
+	position: absolute;
+	left: 256px;
+	top: 72px;
+	width: 276px;
+	height: 64px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 56px;
+	font-weight: 400;
+	line-height: 65.625px;
+}
+.Chats_Chats .Group27 .sent10hago {
+	position: absolute;
+	left: 256px;
+	top: 136px;
+	width: 224px;
+	height: 36px;
+	color: rgba(196,196,196,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.Chats_Chats .Group27 .icoutlinephotocamera {
+	position: absolute;
+	left: 1280px;
+	top: 72px;
+	width: 80px;
+	height: 80px;
+}
+.Chats_Chats .Group27 .icoutlinephotocamera .Vector_8 {
+	position: absolute;
+	left: 6.666748046875px;
+	top: 6.66668701171875px;
+	width: 83.33343505859375%;
+	height: 75%;
+}
+.Chats_Chats .Group27 .Ellipse1 {
+	position: absolute;
+	left: 48px;
+	top: 36px;
+	width: 160px;
+	height: 160px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	background-size: cover;
+}
